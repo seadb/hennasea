@@ -1,0 +1,88 @@
+.logo {
+	color: #732600;
+    display: inline;
+    font-family: 'Dawning of a New Day', cursive;
+    font-size: 64px;
+    
+}
+
+body {
+	background-color: #f5f5f7;
+	background-image: url("/img/powder.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+	background-size: 400px;
+}
+
+	
+.navbar {
+	display:inline;
+}
+
+ul.navbar li {
+	display:inline;
+	padding: 0px 10px;
+	font-family: 'Itim', cursive;
+	font-size: 22px;
+}
+
+a,a:visited{
+	color: #732600;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #859900;
+}
+
+img {
+	padding: 10px;
+}
+.content {
+	background-color: rgba(207, 207, 207, 0.75);
+	display: block;
+	font-family: 'Roboto';
+	font-size: 11pt;
+	line-height: 1.6;
+	min-height: 400px;
+	height: auto;
+	margin-left: 10px;
+	max-width: 800px;
+	padding: 30px;
+	text-align: left;
+	width: 80%;
+}
+.content h1,h2,h3,h4,h5 {
+	font-family: 'Itim', cursive;
+	line-height: 1;
+	font-weight: normal;
+}
+
+.caption {
+	font-style: italic;
+	text-align: center;
+	font-size: 10pt;
+}
+
+h1 { font-size: 28px; }
+h2 { font-size: 24px; }
+h3 { font-size: 20px; }
+h4 { font-size: 18px; }
+h5 {font-size: 16px; }
+
+ul.plain {
+	list-style: none;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+a.name, a.name:visited, a.name:hover {
+	color: black;
+}
