@@ -17,7 +17,7 @@ Setup
 ```
 npm install
 ```
-a
+
 
 Usage
 ---
