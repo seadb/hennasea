@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "compile": "webpack",
-    "start": "node server.js"
+    "start": "node server.js > stdout.txt 2> stderr.txt &"
   },
   "keywords": [
     "react",
