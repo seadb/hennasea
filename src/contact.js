@@ -14,6 +14,10 @@ var Contact = React.createClass({
         <p>
         <h2><a href="mailto:chelsea@bridson.me?Subject=Henna%20Services%20Inquiry">chelsea@bridson.me</a></h2>
         </p>
+        <a href="http://icnha.org/viewing/our-members/under-B/">
+          <img src="img/icnha-logo.png" />
+        </a><br />
+        <a href="paypal.me/seadb">Donate</a>
       </div>
     );
   }
