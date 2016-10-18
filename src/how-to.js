@@ -9,8 +9,8 @@ var HowTo = React.createClass({
       	making your own paste, applying paste, and aftercare instructions. Below is a
       	complete outline of the page complete with links for navigating the page easily.
       	<ul>
-      		<li><a href="#buy-paste">Buy Premade Henna Paste</a></li>
-      		<li><a href="#make">Make your own Paste</a>
+      		<li><a href="#buy-paste">Buy Premade Henna</a></li>
+      		<li><a href="#make">Make your own Henna</a>
       			<ul>
       				<li><a href="#buy">Buying Henna Powder</a></li>
       				<li><a href="#ingredients">Other Ingredients</a></li>
@@ -26,7 +26,7 @@ var HowTo = React.createClass({
       				</li>
       			</ul> 
       		</li>
-      		<li><a href="#apply">Apply the Paste</a></li>
+      		<li><a href="#apply">Apply Henna</a></li>
       		<li><a href="#aftercare">Aftercare</a>
       			<ul>
       				<li>Caring for the applied paste</li>
@@ -36,7 +36,7 @@ var HowTo = React.createClass({
       		</li>
       	</ul>
       	</p>
-      	<h2><a name="buy-paste" className="name">Buy Premade Henna Paste</a></h2>
+      	<h2><a name="buy-paste" className="name">Buy Premade Henna</a></h2>
       	<p>
       	<img src="img/cones.jpg" className="right" width="230" />
       	Buying premade henna paste is a good option for both beginning and experienced artists. Making
@@ -54,7 +54,7 @@ var HowTo = React.createClass({
       		<li><a href="http://henna.artisticadornment.com/henna-paste-henna-cones/" target="_blank">Artistic Adornment</a></li>
       	</ul>
       	</p>
-		    <h2><a name="make" className="name">Make your own paste</a></h2>
+		    <h2><a name="make" className="name">Make your own Henna</a></h2>
 				<p> 
 				Making the paste is one of the most challenging parts of the henna process.  Many different factors can affect the quality of the paste, in turn 
 				affecting the stain.  Many henna artists opt to <a href="#buy-paste">buy premade henna paste</a> instead.  
@@ -109,7 +109,7 @@ var HowTo = React.createClass({
 						to knock the powder through to the other side.  Whatever is left in the pantyhose can be discarded.  I've included a small
 						video courtesy of FreeHandMehndi which shows how to sift the powder.  Note that this step is optional, especially if you plan
 						to <a href="#strain">strain the paste</a>.
-				
+						<br /><br />
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/rSRwSxzX4V8" frameborder="0" allowfullscreen></iframe>
 						</p>
 					</li>
@@ -164,7 +164,7 @@ var HowTo = React.createClass({
 					  <p>Once the dye has released, a lot of artists like to strain the paste
 					  to ensure a smooth and even texture.  The paste can be strained using
 					  a carrot/piping bag and a nylon stocking.  Here's a quick tutorial video
-					  which shows how to strain the henna paste.<br/>
+					  which shows how to strain the henna paste.<br/> <br />
 					  <iframe width="560" height="315" src="https://www.youtube.com/embed/6MvQ0nLD-28" frameborder="0" allowfullscreen></iframe>
 					  </p>
 					</li>
@@ -172,7 +172,7 @@ var HowTo = React.createClass({
 					Next, you will want to put your henna in something.  I like to roll
 					and fill mylar cones, but you can also use a jacquard bottle.  Below
 					are a couple of quick tutorials courtesy of <a href="http://www.hennasooq.com">Henna Sooq</a> which
-					demonstrate how to roll and fill henna cones.<br/>
+					demonstrate how to roll and fill henna cones.<br /><br />
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/D4cdQve507U" frameborder="0" allowfullscreen></iframe>
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/iZVuskLUDEI" frameborder="0" allowfullscreen></iframe>
 					</li>
@@ -197,7 +197,7 @@ var HowTo = React.createClass({
 				using a mylar cone, just cut the tip to the desired size and squeeze the cone.  As 
 				the henna in the cone drains, you'll need to tighten it up in order
 				to continue using the cone.  If you're using a jacquard bottle,
-				you'll need to regularly fill up the bottle with more paste.  Your
+				you'll need to regularly fill up the bottle with more henna.  Your
 				skill at applying henna will improve with practice.  Try practicing 
 				your designs on a sheet of paper.  
 				<a href="http://www.hennapage.com/henna/what/freebooks/index.html"> The Henna Page</a> has
@@ -207,15 +207,15 @@ var HowTo = React.createClass({
 	
 				<h2><a name="aftercare" className="name">Aftercare</a></h2>
 				<h3>Caring for the Applied Paste</h3>
-				<p>The longer the paste stays in contact with your skin, the darker the stain
-				will be and the longer it will last.  Sealing the paste
+				<p>The longer the henna stays in contact with your skin, the darker the stain
+				will be and the longer it will last.  Sealing the henna design
 				will keep the paste on your skin as long as possible.  Many different products
-				can be used to seal the paste: lemon-sugar syrup,
+				can be used to seal: lemon-sugar syrup,
 				Elmer's glue, liquid bandage, peel-off facial masques, liquid latex, or 
 				gel hairspray.  Once the henna paste is completely dry, cover the design
 				with your choice of sealant.  Be careful not to disturb the pattern.  Wrapping
 				the area with gauze or cloth is an effective way of adding additional protection
-				while simultaneously keeping the area warm.  Heating the area of skin the paste
+				while simultaneously keeping the area warm.  Heating the area of skin the henna
 				is on will cause a darker stain - heat makes the keratin molecules of your skin
 				stretch out so they will bind more easily with the dye molecules.</p>
 				<h3>Removing the Paste</h3>

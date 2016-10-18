@@ -5,7 +5,7 @@ var Contact = React.createClass({
     return (
       <div>
         <h1>Contact</h1>
-        <img src="img/business-cardstock.png" width="600" usemap="#bcard" />
+        <img className="business-card" src="img/business-cardstock.png" width="600" usemap="#bcard" />
         <map name="bcard">
           <area shape="rect" coords="452,203,689,231" alt="chelsea@bridson.me" href="google.com" />
         </map>
