@@ -19,8 +19,8 @@ app.use(webpackDevMiddleware(compiler, {
 
 app.use(express.static(__dirname + '/www'));
 
-var server = app.listen(process.env.PORT, function() {
-  var host = config[process.env.NODE_ENV['host']];
-  var port = config[process.env.NODE_ENV['port']];
+var server = app.listen(config[process.env.NODE_ENV]['port'], function() {
+  var host = config[process.env.NODE_ENV]['host'];
+  var port = config[process.env.NODE_ENV]['port'];
   console.log('Example app listening at http://%s:%s', host, port);
 });
