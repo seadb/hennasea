@@ -3,7 +3,6 @@ Hennasea
 
 Uses [React](https://facebook.github.io/react/), [Babel](http://babeljs.io/), and [Webpack](http://webpack.github.io/).
 
---testing new post-merge hook--
 
 Create Project
 ---
