@@ -1,7 +1,7 @@
 var config = {
   production: {
     host: 'localhost',
-    port: '80'
+    port: '3000'
   },
   development: {
     host: process.env.IP,
